@@ -1,2 +1,1 @@
-x = input("ENTER YOUR NAME: ")
-print(f'HELLO {x}')
+print("HELLO WORLD, THIS IS MY DEVOPS TEST CODE FOR PYTHON PIPELINE...")
